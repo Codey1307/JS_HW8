@@ -1,0 +1,9 @@
+Опишіть своїми словами що таке Document Object Model (DOM)
+Це "дерево" документа на основі HTML
+Яка різниця між властивостями HTML-елементів innerHTML та innerText?
+innerText показує все у вигляді текст , незважаючи на те, що було введено
+innerHTML враховує синтаксис HTML, тому , наприклад , тег <p> буде записаний як тег , а не як текст
+Як можна звернутися до елемента сторінки за допомогою JS? Який спосіб кращий?
+getElement*(ById/ByName/ByTagName/ByClassName)
+querySelector/querySelectorAll 
+Універсальніший - querySelectorAll
